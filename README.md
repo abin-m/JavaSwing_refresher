@@ -43,11 +43,15 @@ java -cp .:mysql-connector-java-8.0.30.jar SignUpForm
 
 6. Run the sign-Up Form
 
+```bash
 java -cp .:mysql-connector-java-8.0.30.jar SignUpForm
+```
 
 7. Run the Login Form
 
+```bash
 java -cp .:mysql-connector-java-8.0.30.jar LoginForm
+```
 
 
 
