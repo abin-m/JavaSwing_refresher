@@ -2,7 +2,7 @@
 
 To use this repo 
 1. clone the repository
-2. Install the mysql and Java 
+2. Install the mysql and Java (mac)
 
 
 ```bash
